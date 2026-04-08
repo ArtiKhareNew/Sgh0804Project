@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/ArtiKhareNew
   gitUsername: ArtiKhareNew
   gitBranch: main
+- name: AzRepoMultiplyPackage
+  gitServerName: srcCtrl_AzRepos_Arti
+  gitUrl: https://dev.azure.com/ArtiKhare/AzRepoMultiplyPackage/_git
+  gitUsername: ArtiKhare
+  gitBranch: main

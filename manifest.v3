@@ -9,18 +9,20 @@
   <null name="startup_services"/>
   <null name="shutdown_services"/>
   <null name="replication_services"/>
-  <null name="requires"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+    <value name="AzRepoMultiplyPackage">5.0</value>
+  </record>
   <null name="lazy_load_node_types"/>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">2</value>
+  <value name="build">3</value>
   <null name="description"/>
   <value name="created_date">08-04-2026 04:02:34 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-04-08T04:02:37.577483153Z</value>
+  <value name="lastUpdated">2026-04-08T04:04:28.864267441Z</value>
   <value name="wmProjectId">fleb5041ff050a4f5785cc3808002f47f6</value>
   <value name="creator">Arti Khare</value>
 </Values>
